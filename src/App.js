@@ -1,6 +1,5 @@
 import './App.css';
-import Counter from './components/Counter.jsx';
-import { Provider } from 'react-redux';
+import Counter from "./components/Counter.jsx";
 
 function App() {
   return (
